@@ -14,6 +14,7 @@ public class User {
    ArrayList<String> username=new ArrayList<>();
    ArrayList<String> password=new ArrayList<>();
     String Names;
+    String amanyname;
     
     public User(){
         
