@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 public class User {
    ArrayList<String> username=new ArrayList<>();
    ArrayList<String> password=new ArrayList<>();
-    
+    String Names;
     
     public User(){
         
