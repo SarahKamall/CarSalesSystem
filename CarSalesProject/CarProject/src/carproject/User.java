@@ -15,7 +15,10 @@ public class User {
    ArrayList<String> password=new ArrayList<>();
     String Names;
     String amanyyyyyy;
+<<<<<<< HEAD
     String sara;
+=======
+>>>>>>> master
     
     public User(){
         
